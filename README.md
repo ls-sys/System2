@@ -1,5 +1,5 @@
-# System2
+# Diceros II
 
-Version 2 of Diceros System. 
+Nueva version del sistema.
 
-> Working on it...
+## Se está construyendo!
