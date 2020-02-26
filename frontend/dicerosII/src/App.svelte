@@ -1,5 +1,6 @@
 <script>
 	export let name;
+	window.document.body.style.overflowY = 'hidden';
 </script>
 
 <main>
@@ -26,10 +27,10 @@
 			<input type="submit" value="Iniciar Sesion">
 		</div>
 	</form>
-
+	<div class="cosmic1"></div>
 </main>
 
-<div class="cosmic1"></div>
+
 
 <style>
 	main {
@@ -38,6 +39,7 @@
 		max-width: 600px;
 		margin: 0 auto;
 		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		overflow-x: hidden;
 	}
 
 	figure {
@@ -124,14 +126,14 @@
 	}
 
 	.cosmic1 {
-		width: 500px;
+		width: 800px;
 		z-index: -2;
-		height: 800px;
+		height: 2250px;
 		background-color: #4188ceb7;
 		transform: rotate(78deg);
 		position: absolute;
-		top: 385px;
-		left: 385px;
+		top: -80px;
+		left: -146px;
 	}
 
 	@media (min-width: 640px) {
