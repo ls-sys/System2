@@ -1,5 +1,5 @@
 # Diceros II
+Nueva version del sistema Diceros.
 
-Nueva version del sistema.
-
-## Se está construyendo!
+## Frontend: Svelte
+La tecnología utilizada para el frontend es Svelte.
